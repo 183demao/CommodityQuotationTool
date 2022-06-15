@@ -19,7 +19,7 @@ namespace CommodityQuotationTool
 
         private void btn_Click(object sender, EventArgs e)
         {
-
+            Console.Write("1231123");
         }
     }
 }
